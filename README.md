@@ -2,7 +2,7 @@
 
 # Hi there, I'm Astha 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;B.Tech+CSE+Student+%F0%9F%8E%93;Problem+Solver+%F0%9F%92%A1;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Software+Developer+%F0%9F%9A%80;B.Tech+CSE+Student+%F0%9F%8E%93;Problem+Solver+%F0%9F%92%A1;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br/>
 
@@ -114,7 +114,5 @@ const astha = {
 ### 💬 Say Hello!
 
 *"Code is not just a skill — it's a superpower."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Axora25&color=6C63FF&style=for-the-badge)
 
 </div>
