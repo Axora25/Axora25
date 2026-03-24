@@ -80,7 +80,7 @@ const astha = {
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🌱 **AgriGrow** | Smart agriculture platform helping farmers with data-driven crop insights | React, Node.js, MongoDB |
-| 🤖 **Asset Bot** | AI-integrated finance bot providing real-time stock data and investment insights (buy/sell recommendations, pros/cons) | Node.js, MongoDB, AI |
+| 🤖 **Asset Bot** | AI-integrated finance bot providing real-time stock data and investment insights (buy/sell recommendations, pros/cons) | JavaScript, AI , Python, HTML, CSS |
 | 🎬 **Movie Recommendation** | AI-integrated system that recommends movies based on user preferences and cinematic data | Python, AI |
 | 💼 **Portfolio Website** | Personal portfolio showcasing my skills and projects | React, CSS |
 
